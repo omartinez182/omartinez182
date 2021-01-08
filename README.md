@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omartinez182&theme=gradient)](https://github.com/omartinez182/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omartinez182&theme=prussian&layout=compact)](https://github.com/omartinez182/github-readme-stats)
 
-[![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=omartinez182&theme=gradient)](https://github.com/omartinez182/github-readme-stats)
+[![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=omartinez182&theme=prussian&layout=compact)](https://github.com/omartinez182/github-readme-stats)
