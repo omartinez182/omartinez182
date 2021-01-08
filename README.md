@@ -6,7 +6,7 @@
 I'm currently trying to consolidate decision sciences and marketing processes. My area of focus revolves around using explainable machine learning to support business decisions at all levels of our organization. I'm also working on finding new ways to increase confidence in the use of predictive modeling for marketing applications.
 
 ### Skills
-Python / Streamlit / Flask / Scikit-Learn / Numpy / Dash / Git / R / Shiny / SQL / AWS
+Python / Streamlit / Flask / Scikit-Learn / Dash / Git / R / Shiny / SQL 
 
 ### What I've been up to...
 
