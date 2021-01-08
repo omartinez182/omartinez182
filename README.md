@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Eduardo!
 
-### I'm a Data Scientist with experience on Marketing Applications. 
-![I'm a Data Scientist with a focus on Marketing Applications.](img/image.png)
+#### I'm a Data Scientist with experience on Marketing Applications. 
 
 ### About Me
 I'm currently trying to consolidate decision sciences and marketing processes. My area of focus revolves around using explainable machine learning to support business decisions at all levels of our organization. I'm also working on finding new ways to increase confidence in the use of predictive modeling for marketing applications.
@@ -34,6 +33,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omartinez182&theme=algolia)](https://github.com/omartinez182/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omartinez182&theme=gradient)](https://github.com/omartinez182/github-readme-stats)
 
-[![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=omartinez182&theme=algolia)](https://github.com/omartinez182/github-readme-stats)
+[![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=omartinez182&theme=gradient)](https://github.com/omartinez182/github-readme-stats)
