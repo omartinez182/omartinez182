@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=omartinez182)](https://github.com/omartinez182/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=omartinez182&theme=algolia)](https://github.com/omartinez182/github-profile-trophy)
+
+[![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=omartinez182&theme=algolia)](https://github.com/omartinez182/github-readme-stats)
