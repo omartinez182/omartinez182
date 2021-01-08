@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Eduardo!
 
-#### I'm a Data Scientist with experience on Marketing Applications. 
+#### I'm a Data Scientist with experience on Marketing applications. 
 
 ### About Me
 I'm currently trying to consolidate decision sciences and marketing processes. My area of focus revolves around using explainable machine learning to support business decisions at all levels of our organization. I'm also working on finding new ways to increase confidence in the use of predictive modeling for marketing applications.
