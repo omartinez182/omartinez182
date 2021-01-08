@@ -12,7 +12,7 @@ Python / Streamlit / Flask / Scikit-Learn / Numpy / Dash / Git / R / Shiny / SQL
 
 - 🏠  I’m currently working on a web app to analyze real estate data that I've scraped from the web, specifically for properties in Guatemala City 🇬🇹. [here](http://guatemalaviva.com/).
 - 🌱  I’m currently learning more about topics related to numerical methods and computational linear algebra.
- [I've done some work related to optimization algorithms.](https://github.com/omartinez182/numerical-methods-and-algorithms). So, I'm tyring to improve my knowledge on the theoretical aspects of convex optimization.
+ [I've done some work related to optimization algorithms](https://github.com/omartinez182/numerical-methods-and-algorithms) so, I'm tyring to improve my knowledge on the theoretical aspects of convex optimization.
 - 👯  I’m looking to collaborate on any open source project that may have a social impact, such as housing development, educational programs, or any project related to reducing economic inequality.
 - 📫  How to reach me: omartinez1821992@gmail.com
 
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omartinez182&theme=prussian&layout=compact)](https://github.com/omartinez182/github-readme-stats)
 
-[![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=omartinez182&theme=prussian&layout=compact)](https://github.com/omartinez182/github-readme-stats)
+[![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=omartinez182&theme=prussian&layout=compact&hide=prs,issues,contribs)](https://github.com/omartinez182/github-readme-stats)
