@@ -10,7 +10,7 @@ Python / Streamlit / Flask / Scikit-Learn / Dash / Git / R / Shiny / SQL
 
 ### What I've been up to...
 
-- 🏠  I’m currently working on a web app to analyze real estate data that I've scraped from the web, specifically for properties in Guatemala City 🇬🇹. [here](http://guatemalaviva.com/).
+- 🏠  I’m currently working on a web app to analyze real estate data that I've scraped from the web, specifically for properties in Guatemala City 🇬🇹. You can find the app [here](http://guatemalaviva.com/).
 - 🌱  I’m currently learning more about topics related to numerical methods and computational linear algebra.
  [I've done some work related to optimization algorithms](https://github.com/omartinez182/numerical-methods-and-algorithms) so, I'm tyring to improve my knowledge on the theoretical aspects of optimization.
 - 👯  I’m looking to collaborate on any open source project that may have a social impact, such as housing development, educational programs, or any project related to reducing economic inequality.
