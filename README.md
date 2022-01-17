@@ -3,16 +3,14 @@
 #### I'm a Data Scientist with experience on Marketing applications. 
 
 ### About Me
-I'm currently trying to consolidate decision sciences and marketing processes. My area of focus revolves around using explainable machine learning to support business decisions at all levels of our organization. I'm also working on finding new ways to increase confidence in the use of predictive modeling for marketing applications.
+Currently, exploring AI as a graduate student at Duke University. Previously, my area of focus revolved around using explainable machine learning to support business decisions at all levels of different organizations and also worked on finding new ways to increase confidence in the use of predictive modeling for marketing applications.
 
 ### Skills
 Python / Streamlit / Flask / Scikit-Learn / Dash / Git / R / Shiny / SQL 
 
 ### What I've been up to...
 
-- 🏠  I’m currently working on a web app to analyze real estate data that I've scraped from the web, specifically for properties in Guatemala City 🇬🇹 . You can find the app [here](http://guatemalaviva.com/).
-- 🌱  I’m currently learning more about topics related to numerical methods and computational linear algebra.
- [I've done some work related to optimization algorithms](https://github.com/omartinez182/numerical-methods-and-algorithms) so, I'm tyring to improve my knowledge on the theoretical aspects of optimization.
+- 🏠  Published a web app to analyze real estate data that I've scraped from the web, specifically for properties in Guatemala City 🇬🇹 . You can find the app [here](http://guatemalaviva.com/).
 - 👯  I’m looking to collaborate on any open source project that may have a social impact, such as housing development, educational programs, or any project related to reducing economic inequality.
 - 📫  How to reach me: omartinez1821992@gmail.com
 
