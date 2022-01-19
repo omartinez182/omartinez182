@@ -6,7 +6,7 @@
 Currently, exploring AI as a graduate student at Duke University. Previously, my area of focus revolved around using explainable machine learning to support business decisions at all levels of different organizations. I've also worked on implementing methods to increase confidence in the use of predictive modeling for marketing applications.
 
 ### Skills
-Python / Streamlit / Flask / Scikit-Learn / Dash / Git / R / Shiny / SQL 
+Python / Flask / Streamlit / Scikit-Learn / Dash / Git / R / Shiny / SQL 
 
 ### What I've been up to...
 
