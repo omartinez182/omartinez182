@@ -6,11 +6,10 @@
 Currently, exploring AI as a graduate student at Duke University. Previously, my area of focus revolved around using explainable machine learning to support business decisions at all levels of different organizations. I've also worked on implementing methods to increase confidence in the use of predictive modeling for marketing applications.
 
 ### Skills
-Python / Flask / Streamlit / Scikit-Learn / Dash / Git / R / Shiny / SQL 
+OOP / Causal Inference / Statistics / Machine Learning 
 
-### What I've been up to...
+### What I'm looking for...
 
-- 🏠  Published a web app to analyze real estate data that I've scraped from the web, specifically for properties in Guatemala City 🇬🇹 . You can find the app [here](http://guatemalaviva.com/).
 - 👯  I’m looking to collaborate on any open source project that may have a social impact, such as housing development, educational programs, or any project related to reducing economic inequality.
 - 📫  How to reach me: omartinez1821992@gmail.com
 
