@@ -6,7 +6,7 @@
 Currently, exploring AI as a graduate student at Duke University. Previously, my area of focus revolved around using explainable machine learning to support business decisions. I've also worked on projects related to increasing confidence in the use of predictive modeling for marketing applications.
 
 ### Skills
-OOP / Causal Inference & Experimentation / Statistics / Machine Learning 
+OOP / Causal Inference / Statistics / Machine Learning 
 
 ### What I'm looking for...
 
