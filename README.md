@@ -3,14 +3,14 @@
 #### I'm a Data Scientist with experience on marketing applications. 
 
 ### About Me
-Currently, exploring AI as a graduate student at Duke University. Previously, my area of focus revolved around using explainable machine learning to support business decisions. I've also worked on projects related to increasing confidence in the use of predictive modeling for marketing applications.
+Currently, exploring AI as a graduate student at Duke University. Previously, my focus revolved around using explainable machine learning to support business decisions. I've also worked on projects related to increasing confidence in the use of predictive modeling for marketing applications.
 
 ### Skills
 OOP / Causal Inference / Statistics / Machine Learning 
 
 ### What I'm looking for...
 
-- 👯  I’m looking to collaborate on any open source project that may have a social impact, such as housing development, educational programs, or any project related to reducing economic inequality.
+- 👯  I’m looking to collaborate on any open source project that can have a social impact, such as housing development, educational programs, or any project related to reducing economic inequality.
 - 📫  How to reach me: omartinez1821992@gmail.com 
 
 
