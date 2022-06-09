@@ -1,9 +1,6 @@
 ### Hi there 👋, my name is Eduardo!
 
-#### I'm a Data Scientist with experience on marketing applications. 
-
-### About Me
-Currently, exploring AI as a graduate student at Duke University. Previously, my focus revolved around using explainable machine learning to support business decisions. I've also worked on projects related to increasing confidence in the use of predictive modeling for marketing applications.
+I'm a data scientist exploring AI as a graduate student at Duke University.
 
 ### Skills
 OOP / Causal Inference / Statistics / Machine Learning 
