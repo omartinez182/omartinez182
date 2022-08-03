@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Eduardo!
 
-I'm a data scientist working on applied machine learning.
+I'm a data scientist exploring AI as a graduate student at Duke University.
 
 ### Skills
 OOP / Causal Inference / Statistics / Machine Learning 
