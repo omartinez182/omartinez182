@@ -8,8 +8,6 @@ OOP / Causal Inference / Statistics / Machine Learning
 ### What I'm looking for...
 
 - 👯  I’m looking to collaborate on open source projects that can have a social impact, such as housing development, educational programs, or any project related to reducing economic inequality.
-- 📫  How to reach me: omartinez1821992@gmail.com 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omarmartinez182/)  
 
